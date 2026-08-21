@@ -11,14 +11,11 @@ I am a Computer Science student interested in Data Analytics, Business Intellige
 - Data Analytics
 - Git & GitHub
 
-📂 Projects
-
-- Power BI Projects — Data visualization and dashboard projects using Microsoft Power BI.
-
 🌱 Currently Learning
 
 - Data Analytics
 - Python for Data Analysis
+- Excel
 - SQL
 - Power BI
 
